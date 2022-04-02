@@ -6,5 +6,6 @@ int main()
     {
         int rem=((s.length() - s.find("$S")));
         std::cout<<rem<<std::endl;
+        std::cout<<"execute follow command";
     }
 }
